@@ -3,18 +3,19 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>hanjl2022@sjtu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Shanghai Jiao Tong University, Shanghai, China**, M.S. in Information and Communication Engineering (2022.09 – 2025.3)  
+- GPA: 3.84/4.0
+- CET-6: 510
+- Advisor: Yuanxin Wu
+- Relevant Courses: Optimization Method (A+), Matrix Theory (A), Navigation Information Fusion Methods and Practice (A+), Visual Computing Theory and Engineering Applications (A+), Mathematical Fundamentals for Artificial Intelligence (A)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Jilin University, Jilin, China**, B.S. in Communication Engineering (2018.09 – 2022.07)  
+- GPA: 88.18/100
+- Relevant Courses: Calculus B I (A+, 100), Calculus B II (A), Linear Allgebra B (A+), Signals and Systems (A+), Probability and Statistics (A+), Functions of Complex Variable and Integral Transforms (A+), Digital Image Processing (A), Microcontroller (MCU) Principle and Embedded System (A)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+#### Research Interests
 
-#### Research Interests  
-XX, XX, XX, XX.
+Visual-Inertial Odometry, Inertial Navigation, State Estimation, Pedestrian Navigation.

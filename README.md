@@ -15,7 +15,7 @@
 
 This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
 
-I have added a **work experience section**, making it more practical for programmers and job seekers.
+I have added a **work project section**, making it more practical for programmers and job seekers.
 
 Bilibili教程视频：【【2025最新保姆级教程】手把手教你用github制作个人主页（申学找工作必备）】https://www.bilibili.com/video/BV16nNMeFEzm?vd_source=79b688b1a191b9f9e8204aa1c3d0adab
 

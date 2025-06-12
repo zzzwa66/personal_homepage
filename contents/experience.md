@@ -1,21 +1,23 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Covariance Switch-Based Invariant Extended Kalman Filter**  
+**2023.10 – Present**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- The ineffectiveness and effectiveness of introducing covariance switch on the original InEKF are theoretically demonstrated for the first time.
+- Theoretical analyses and experimental verifications for the first time prove that, under the framework of covariance switch, the state correction steps based on the target error definition and the original error definition are equivalent.
+- Numerical simulations and field tests demonstrate that introducing covariance switch can significantly improve the convergence speed and consistency compared with the original L-InEKF and R-InEKF when the observation model does not match that of the process model.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **Pose-Only Representation-Based MSC-InEKF for Visual Inertial Odometry (VIO)**  
+**2024.6 – Present**  
 
----
+- Pose-Only Representation-Based Observation Model: utilizing camera poses and visual observations to analytically represent depth, eliminating the process for triangulation to reconstruct 3D feature points.
+- MSC-InEKF: multi-state constraint invariant extended Kalman filter, addressing the inconsistency caused by model linearization error.
+- Contributions: explicitly eliminating 3D feature points from the measurement equations and solving the consistency issues in VIO.
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Pedestrian Navigation System**  
+**2023.5 – 2023.10**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+- Indoor Pedestrian Positioning System: dual foot-mounted IMUs and ultrasonic distance sensors, combined with human motion constraints, for positioning in GNSS-denied environments.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **An Multi-sensor Information Fusion and Validation Platform**  
+**2024.4 – 2024.6**  
+
+- Platform Details: complete hardware platform construction concluding sensors such as IMU (Xsens MTi-670, Adis 16505-2, 16495-1,), wheel encoder, and stereo camera (Realsense D435i), providing a foundational algorithm validation platform for the evaluation of multi-sensor fusion algorithms.
