@@ -1,6 +1,6 @@
 ### Academic Competitions Awards
 
-- FENG Ru Best Paper Award, 2024 ICGNC (\textbf{Top 1\% (10/1300)})
+- FENG Ru Best Paper Award, 2024 ICGNC (**Top 1\% (10/1300)**)
 - National, College Student Innovation and Entrepreneurship Training Program
 - First Prize, 12th/13th National College Student Mathematics Competition, China
 - Second Prize, 11th National College Student Mathematics Competition, China
