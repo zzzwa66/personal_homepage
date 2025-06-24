@@ -5,4 +5,4 @@
 - T. Hua **J. Han**, W. Ouyang, "A Multi-view Landmark Representation Approach with Application to GNSS-Visual-Inertial Odometry," *23rd IFAC symposium on Automatic Control in Aerospace 2025*.
 - Q. Zhang, W. Ouyang, **J. Han**, Q. Cai, M. Zhu, and Y. Wu, "An Immediate Update Strategy of Multi-State Constraint Kalman Filter for Visual-Inertial Odometry," *IEEE Robotics and Automation Letters*, Feb. 2025.
 - W. Ouyang **J. Han**, Y. Luo, "Extended Trident Quaternion Framework for INS/GNSS Integrated Navigation with IMU Biases and Lever Arms," submitted to *IEEE/ASME Transactions on Mechatronics*.
-- **J. Han**, Q. Zhang, Y. Liu, W. Ouyang, "$I^2$-VIO: An Immediate Update Strategy based Invariant Kalman Filter for Visual-Inertial Odometry," submitted to *2026 IEEE International Conference on Robotics and Automation (ICRA)*.
+- **J. Han**, Q. Zhang, Y. Liu, W. Ouyang, "$I^2$-VIO: An Immediate Update Strategy based Invariant Kalman Filter for Visual-Inertial Odometry," to be submitted to *2026 IEEE International Conference on Robotics and Automation (ICRA)*.
